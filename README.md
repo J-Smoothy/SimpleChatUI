@@ -1,1 +1,1 @@
-# SimpleChatUI
+# Simple Chat UI
